@@ -1,1 +1,0 @@
-SELECT * FROM exercise1.new_table;
